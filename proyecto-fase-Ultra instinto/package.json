@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "algoliasearch": "^4.23.3",
+    "firebase-admin": "^12.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
